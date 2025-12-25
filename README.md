@@ -21,11 +21,6 @@ This project applies Deep Learning techniques to classify and segment skin disea
 - Classification: Accuracy, Precision, Recall, F1-score
 - Segmentation: Dice Score, IoU
 
-## 🚀 Results
-| Model | Task | Metric |
-|------|------|--------|
-| DenseNet | Classification | Accuracy: xx% |
-| U-Net | Segmentation | Dice: xx% |
-
 ## 🧠 Author
 Nguyễn Văn Khánh
+
